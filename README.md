@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá, Andrey aqui :call_me_hand:
+##### é um prazer tê-lo por aqui, sinta-se a vontade para ver meus repositórios e o que ando desenvolvendo. Sou desenvolvedor Full Stack. Programo em PHP, Lavavel, Javascript, Nodejs, React, React Native, mas confesso que minha stack favorita é Nodejs, React e React Native. 
+##### Tive o primeiro contato com programação no ensino médio, mas peguei gosto e me aprofundei mesmo na faculdade, onde fiz Análise e Desenvolvimento de Sistemas. Desde então sempre procuro desenvolver pequenos e médios sistemas, para estar em constante aprendizado. Os erros do dia a dia nos fazem crescer e amadurecer como desenvolvedores e profissionais. :sweat_smile:
+##### Minhas redes sociais estão ali em baixo, sempre estou compartilhando conteúdos relacionados a área, e caso tenha alguma dúvida, estarei a disposição para responder. :thumbsup:
+
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-jackssonandrey.github.io/portfolio-black)](https://jackssonandrey.github.io/portfolio)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/andreydev_)](https://twitter.com/andreydev_)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacksson-andrey)](https://www.linkedin.com/in/jacksson-andrey)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&labelColor=bc2a8d&logo=Instagram&logoColor=white&link=https://www.instagram.com/andreydev_)](https://www.instagram.com/andreydev_/)
 
 <!--
 **JackssonAndrey/jackssonandrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
