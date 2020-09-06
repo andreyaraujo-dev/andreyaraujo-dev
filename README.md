@@ -1,8 +1,8 @@
-## Olá, Andrey aqui :call_me_hand'
+## Olá, Andrey aqui :call_me_hand:
 
 ##### é um prazer tê-lo por aqui, sinta-se a vontade para ver meus repositórios e o que ando desenvolvendo. Sou desenvolvedor Full Stack. Programo em PHP, Lavavel, Javascript, Nodejs, React, React Native, mas confesso que minha stack favorita é Nodejs, React e React Native
 
-##### Sou formado em Análise e Desenvolvimento de Sistemas. Tive o primeiro contato com programação ainda no ensino médio. Desde então sempre procuro desenvolver pequenos e médios sistemas, para estar em constante aprendizado. Os erros do dia a dia nos fazem crescer e amadurecer como desenvolvedores e profissionais. :sweat_smile
+##### Sou formado em Análise e Desenvolvimento de Sistemas. Tive o primeiro contato com programação ainda no ensino médio. Desde então sempre procuro desenvolver pequenos e médios sistemas, para estar em constante aprendizado. Os erros do dia a dia nos fazem crescer e amadurecer como desenvolvedores e profissionais. :sweat_smile:
 
 ##### Atualmente trabalho como freelancer no desenvolvimento web, desde sites simples até sistemas mais complexos. Caso queira saber mais a respeito, minhas redes socias estão mais em baixo para entrar em contato comigo
 
@@ -21,10 +21,12 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=CSS3&logoColor=F05032)
 ![PHP](https://img.shields.io/badge/-PHP-222222?style=flat&logo=PHP&logoColor=0769AD)
 ![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat&logo=Laravel&logoColor=F050)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrap&logoColor=582674)
+![Figma](https://img.shields.io/badge/-Figma-222222?style=flat&logo=Figma&logoColor=)
 
 ## Contato
 
-##### Minhas redes sociais estão aqui em baixo, sempre estou compartilhando conteúdos relacionados a área, e caso tenha alguma dúvida, estarei a disposição para responder. :thumbsup
+##### Minhas redes sociais estão aqui em baixo, sempre estou compartilhando conteúdos relacionados a área, e caso tenha alguma dúvida, estarei a disposição para responder. :thumbsup:
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-jackssonandrey.github.io/portfolio-black)](https://jackssonandrey.github.io/portfolio)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/andreydev_)](https://twitter.com/andreydev_)
