@@ -28,7 +28,7 @@
 
 ##### Minhas redes sociais estão aqui em baixo, sempre estou compartilhando conteúdos relacionados a área, e caso tenha alguma dúvida, estarei a disposição para responder. :thumbsup:
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-jackssonandrey.github.io/portfolio-black)](https://andreyaraujo.dev)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-andreyaraujo.dev-black)](https://andreyaraujo.dev)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/andreydev_)](https://twitter.com/andreydev_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacksson-andrey)](https://www.linkedin.com/in/jacksson-andrey)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&labelColor=bc2a8d&logo=Instagram&logoColor=white&link=https://www.instagram.com/andreydev_)](https://www.instagram.com/andreyaraujo.dev/)
