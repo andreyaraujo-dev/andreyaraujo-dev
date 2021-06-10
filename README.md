@@ -1,10 +1,10 @@
 ## Olá, Andrey aqui :call_me_hand:
 
-##### é um prazer tê-lo por aqui, sinta-se a vontade para ver meus repositórios e o que ando desenvolvendo. Sou desenvolvedor Full Stack. Programo em PHP, Lavavel, Javascript, Nodejs, React, React Native, mas confesso que minha stack favorita é Nodejs, React e React Native
+##### é um prazer tê-lo por aqui, sinta-se a vontade para ver meus repositórios e o que ando desenvolvendo. Sou desenvolvedor Full Stack. Programo em PHP, Lavavel, Javascript, Nodejs, React, Python, Django mas confesso que minha stack favorita é Nodejs, React.
 
 ##### Sou formado em Análise e Desenvolvimento de Sistemas. Tive o primeiro contato com programação ainda no ensino médio. Desde então sempre procuro desenvolver pequenos e médios sistemas, para estar em constante aprendizado. Os erros do dia a dia nos fazem crescer e amadurecer como desenvolvedores e profissionais. :sweat_smile:
 
-##### Atualmente trabalho como freelancer no desenvolvimento web, desde sites simples até sistemas mais complexos. Caso queira saber mais a respeito, minhas redes socias estão mais em baixo para entrar em contato comigo
+##### Atualmente trabalho como Desenvolvedor FullStack na FortBrasil.
 
 ## Linguagens e tecnologias que uso ou usei em trabalhos
 
@@ -31,7 +31,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-andreyaraujo.dev-black)](https://andreyaraujo.dev)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/andreydev_)](https://twitter.com/andreydev_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacksson-andrey)](https://www.linkedin.com/in/jacksson-andrey)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&labelColor=bc2a8d&logo=Instagram&logoColor=white&link=https://www.instagram.com/andreydev_)](https://www.instagram.com/andreyaraujo.dev/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&labelColor=bc2a8d&logo=Instagram&logoColor=white&link=https://www.instagram.com/andreyaraujo.dev)](https://www.instagram.com/andreyaraujo.dev/)
 
 ![Jacksson Andrey github stats](https://github-readme-stats.vercel.app/api?username=jackssonandrey&show_icons=true&hide_border=true&theme=nord&&count_private=true&hide=contribs)
 <!--
