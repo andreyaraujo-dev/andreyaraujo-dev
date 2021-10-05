@@ -1,10 +1,6 @@
 ## Olá, Andrey aqui :call_me_hand:
 
-##### é um prazer tê-lo por aqui, sinta-se a vontade para ver meus repositórios e o que ando desenvolvendo. Sou desenvolvedor Full Stack. Programo em PHP, Lavavel, Javascript, Nodejs, React, Python, Django mas confesso que minha stack favorita é Nodejs, React.
-
-##### Sou formado em Análise e Desenvolvimento de Sistemas. Tive o primeiro contato com programação ainda no ensino médio. Desde então sempre procuro desenvolver pequenos e médios sistemas, para estar em constante aprendizado. Os erros do dia a dia nos fazem crescer e amadurecer como desenvolvedores e profissionais. :sweat_smile:
-
-##### Atualmente trabalho como Desenvolvedor FullStack na FortBrasil.
+##### Sou formado em Análise e Desenvolvimento de Sistemas, e atualmente trabalho como Desenvolvedor FullStack na FortBrasil. Tive o primeiro contato com programação ainda no ensino médio. Desde então sempre procuro desenvolver pequenos e médios sistemas, para estar em constante aprendizado. Os erros do dia a dia nos fazem crescer e amadurecer como desenvolvedores e profissionais. :sweat_smile:
 
 ## Linguagens e tecnologias que uso ou usei em trabalhos
 
