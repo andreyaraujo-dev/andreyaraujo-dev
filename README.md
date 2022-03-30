@@ -1,46 +1,32 @@
-## Olá, Andrey aqui :call_me_hand:
+<h2 align="center"> Hello there, I'm Andrey :call_me_hand:</h2>
 
-##### Sou formado em Análise e Desenvolvimento de Sistemas, e atualmente trabalho como Desenvolvedor FullStack na FortBrasil. Tive o primeiro contato com programação ainda no ensino médio. Desde então sempre procuro desenvolver pequenos e médios sistemas, para estar em constante aprendizado. Os erros do dia a dia nos fazem crescer e amadurecer como desenvolvedores e profissionais. :sweat_smile:
+<div align="center">
+  <a href="https://andreyaraujo.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-andreyaraujo.dev-black?style=for-the-badge" ></a>
+  <a href="https://twitter.com/andreyaraujodev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/andreyaraujodev" ></a>
+  <a href="https://www.linkedin.com/in/jacksson-andrey" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacksson-andrey" ></a>
+  <a href="https://www.instagram.com/andreyaraujo.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-bc2a8d?style=for-the-badge&labelColor=bc2a8d&logo=Instagram&logoColor=white&link=https://www.instagram.com/andreyaraujo.dev" ></a>
+  <a href="https://www.twitch.tv/andreyaraujoo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" ></a>
+  <a href="https://www.youtube.com/channel/UCKehyTUE9W9nU9FuBFtf9Iw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</div>
 
-## Linguagens e tecnologias que uso ou usei em trabalhos
+:computer: Fullstack Developer at <a href="https://www.fortbrasil.com.br/" target="_blank">FortBrasil</a> <br>
+:house: Brazilian, Based in Itapipoca, CE <br>
+🎓 Graduated in Systems Analysis and Development
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/-ReactNative-222222?style=flat&logo=React&logoColor=61DAFB)
-![Javascript](https://img.shields.io/badge/-Javascript-222222?style=flat&logo=Javascript&logoColor=FC)
-![Typescript](https://img.shields.io/badge/-Typescript-222222?style=flat&logo=Typescript&logoColor=0769AD)
-![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat&logo=MySQL)
-![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=CSS3&logoColor=F05032)
-![PHP](https://img.shields.io/badge/-PHP-222222?style=flat&logo=PHP&logoColor=0769AD)
-![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat&logo=Laravel&logoColor=F050)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrap&logoColor=582674)
-![Figma](https://img.shields.io/badge/-Figma-222222?style=flat&logo=Figma&logoColor=)
+## ⚒️ Tech Stack
 
-## Contato
+![Git](https://img.shields.io/badge/-Git-222222?style=for-the-badge&logo=git&logoColor=F05032)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=React&logoColor=61DAFB)
+![Javascript](https://img.shields.io/badge/-Javascript-222222?style=for-the-badge&logo=Javascript&logoColor=FC)
+![Typescript](https://img.shields.io/badge/-Typescript-222222?style=for-the-badge&logo=Typescript&logoColor=0769AD)
+![CSS3](https://img.shields.io/badge/-CSS3-222222?style=for-the-badge&logo=CSS3&logoColor=F05032)
+![Figma](https://img.shields.io/badge/-Figma-222222?style=for-the-badge&logo=Figma&logoColor=)
+![Nextjs](https://img.shields.io/badge/-Nextjs-222222?style=for-the-badge&logo=Nextjs&logoColor=)
+![Nestjs](https://img.shields.io/badge/-Nestjs-222222?style=for-the-badge&logo=Nestjs&logoColor=)
 
-##### Minhas redes sociais estão aqui em baixo, sempre estou compartilhando conteúdos relacionados a área, e caso tenha alguma dúvida, estarei a disposição para responder. :thumbsup:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreyaraujo-dev&show_icons=true&hide_border=true&theme=nord&&count_private=true&hide=contribs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyaraujo-dev&layout=compact&show_icons=true&hide_border=true&theme=nord&&count_private=true&hide=contribs">
+</div>
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-andreyaraujo.dev-black)](https://andreyaraujo.dev)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/andreydev_)](https://twitter.com/andreyaraujodev)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacksson-andrey)](https://www.linkedin.com/in/jacksson-andrey)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&labelColor=bc2a8d&logo=Instagram&logoColor=white&link=https://www.instagram.com/andreyaraujo.dev)](https://www.instagram.com/andreyaraujo.dev/)
-
-![Jacksson Andrey github stats](https://github-readme-stats.vercel.app/api?username=andreyaraujo-dev&show_icons=true&hide_border=true&theme=nord&&count_private=true&hide=contribs)
-<!--
-**JackssonAndrey/jackssonandrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
