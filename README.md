@@ -9,6 +9,8 @@
   <a href="https://www.youtube.com/channel/UCKehyTUE9W9nU9FuBFtf9Iw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
+<br>
+
 :computer: Fullstack Developer at <a href="https://www.fortbrasil.com.br/" target="_blank">FortBrasil</a> <br>
 :house: Brazilian, Based in Itapipoca, CE <br>
 🎓 Graduated in Systems Analysis and Development
@@ -27,6 +29,6 @@
 
 <div align="center">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=andreyaraujo-dev&show_icons=true&hide_border=true&theme=discord_old_blurple&&count_private=true&hide=contribs">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyaraujo-dev&layout=compact&show_icons=true&hide_border=true&theme=discord_old_blurple&&count_private=true&hide=contribs">
+  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyaraujo-dev&layout=compact&show_icons=true&hide_border=true&theme=discord_old_blurple&&count_private=true&hide=contribs">
 </div>
 
