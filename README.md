@@ -26,7 +26,7 @@
 ![Nestjs](https://img.shields.io/badge/-Nestjs-222222?style=for-the-badge&logo=Nestjs&logoColor=)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreyaraujo-dev&show_icons=true&hide_border=true&theme=nord&&count_private=true&hide=contribs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyaraujo-dev&layout=compact&show_icons=true&hide_border=true&theme=nord&&count_private=true&hide=contribs">
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=andreyaraujo-dev&show_icons=true&hide_border=true&theme=nord&&count_private=true&hide=contribs">
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyaraujo-dev&layout=compact&show_icons=true&hide_border=true&theme=nord&&count_private=true&hide=contribs">
 </div>
 
