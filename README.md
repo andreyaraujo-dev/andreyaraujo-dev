@@ -1,4 +1,4 @@
-<h2 align="center"> Hello there, I'm Andrey :call_me_hand:</h2>
+<h2 align="center">Hi there 👋, My name is Andrey Araújo</h2>
 
 <div align="center">
   <a href="https://andreyaraujo.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-andreyaraujo.dev-black?style=for-the-badge" ></a>
@@ -13,9 +13,11 @@
 
 :computer: Fullstack Developer at <a href="https://www.fortbrasil.com.br/" target="_blank">FortBrasil</a> <br>
 :house: Brazilian, Based in Itapipoca, CE <br>
-🎓 Graduated in Systems Analysis and Development
+🎓 Graduated in Systems Analysis and Development <br>
+🤖 All of my projects are available at <a href="www.andreyaraujo.dev">andreyaraujo.dev</a><br>
+📝 I regularly write articles on <a href="www.andreyaraujo.dev">andreyaraujo.dev</a>, <a href="https://dev.to/andreyaraujo">Dev.to</a>
 
-## ⚒️ Tech Stack
+## 💻 Tech Stack
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=for-the-badge&logo=git&logoColor=F05032)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=node.js&logoColor=339933)
@@ -27,8 +29,15 @@
 ![Nextjs](https://img.shields.io/badge/-Nextjs-222222?style=for-the-badge&logo=Nextjs&logoColor=)
 ![Nestjs](https://img.shields.io/badge/-Nestjs-222222?style=for-the-badge&logo=Nestjs&logoColor=)
 
+## 📊 Github Status
 <div align="center">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=andreyaraujo-dev&show_icons=true&hide_border=true&theme=discord_old_blurple&&count_private=true&hide=contribs">
   <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyaraujo-dev&layout=compact&show_icons=true&hide_border=true&theme=discord_old_blurple&&count_private=true&hide=contribs">
+</div>
+
+<div align="center">
+<p><img src="https://metrics.lecoq.io/andreyaraujo-dev"><p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=andreyaraujo-dev"><p>
 </div>
 
