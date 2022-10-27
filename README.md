@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/jacksson-andrey" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacksson-andrey" ></a>
   <a href="https://www.instagram.com/andreyaraujo.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-bc2a8d?style=for-the-badge&labelColor=bc2a8d&logo=Instagram&logoColor=white&link=https://www.instagram.com/andreyaraujo.dev" ></a>
   <a href="https://www.twitch.tv/andreyaraujoo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" ></a>
-  <a href="https://www.youtube.com/channel/UCKehyTUE9W9nU9FuBFtf9Iw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.youtube.com/@andreyaraujo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
 <br>
@@ -26,7 +26,7 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-222222?style=for-the-badge&logo=Typescript&logoColor=0769AD)
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=for-the-badge&logo=CSS3&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/-Figma-222222?style=for-the-badge&logo=Figma&logoColor=)
-![Nextjs](https://img.shields.io/badge/-Nextjs-222222?style=for-the-badge&logo=Nextjs&logoColor=)
+![Nextjs](https://img.shields.io/badge/-Nextjs-222222?style=for-the-badge&logo=Vercel&logoColor=)
 ![Nestjs](https://img.shields.io/badge/-Nestjs-222222?style=for-the-badge&logo=Nestjs&logoColor=)
 
 ## 📊 Github Status
