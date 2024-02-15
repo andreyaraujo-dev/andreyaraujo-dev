@@ -32,6 +32,6 @@
 
 ## 📊 Github Status
 <div style="display: flex; flex-wrap: nowrap;">
-    <img style="height: 220px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyaraujo-dev&layout=compact&show_icons=true&hide_border=true&theme=discord_old_blurple&&count_private=true&hide=contribs">
-    <img style="height: 220px;" src="https://github-readme-streak-stats.herokuapp.com/?user=andreyaraujo-dev">
+    <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyaraujo-dev&layout=compact&show_icons=true&hide_border=true&theme=discord_old_blurple&&count_private=true&hide=contribs">
+    <img style="height: 180px;" src="https://github-readme-streak-stats.herokuapp.com/?user=andreyaraujo-dev">
 </div>
