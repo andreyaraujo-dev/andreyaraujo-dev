@@ -11,7 +11,7 @@
 
 <br>
 
-:computer: Fullstack Developer at <a href="https://www.fortbrasil.com.br/" target="_blank">FortBrasil</a> <br>
+:computer: Fullstack Developer at [DM Card](https://www.dmcard.com.br/portal/) <br>
 :house: Brazilian, Based in Itapipoca, CE <br>
 🎓 Graduated in Systems Analysis and Development <br>
 🤖 All of my projects are available at <a href="www.andreyaraujo.dev">andreyaraujo.dev</a><br>
