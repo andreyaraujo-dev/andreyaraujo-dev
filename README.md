@@ -29,9 +29,6 @@
 ![Nestjs](https://img.shields.io/badge/-Nestjs-222222?style=for-the-badge&logo=Nestjs&logoColor=)
 ![Python](https://img.shields.io/badge/-Python-222222?style=for-the-badge&logo=Python&logoColor=)
 ![PHP](https://img.shields.io/badge/-PHP-222222?style=for-the-badge&logo=PHP&logoColor=)
+![C#](https://img.shields.io/badge/-.Net-222222?style=for-the-badge&logo=dotnet&logoColor=0769AD)
 
-## 📊 Github Status
-<div style="display: flex; flex-wrap: nowrap;">
-    <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyaraujo-dev&layout=compact&show_icons=true&hide_border=true&theme=discord_old_blurple&&count_private=true&hide=contribs">
-    <img style="height: 180px;" src="https://github-readme-streak-stats.herokuapp.com/?user=andreyaraujo-dev">
-</div>
+![](./profile-3d-contrib/profile-night-green.svg)
