@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080A0F,50:1B2A4A,100:3977FF&height=180&section=header&text=Andrey%20Araújo&fontSize=42&fontColor=F4F6FB&desc=Fullstack%20Developer%20·%20Itapipoca,%20CE%20-%20Brasil&descSize=16&descAlignY=62&animation=fadeIn" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080A0F,50:1B2A4A,100:3977FF&height=120&section=header&animation=fadeIn" alt="header banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&pause=1000&color=F4F6FB&center=true&vCenter=true&width=500&height=50&lines=Andrey+Ara%C3%BAjo" alt="Andrey Araújo" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=400&size=16&pause=1000&color=7F8796&center=true&vCenter=true&width=600&height=30&lines=Fullstack+Developer+%C2%B7+Itapipoca%2C+CE+-+Brasil" alt="tagline" />
 </p>
 
 <p align="center">
