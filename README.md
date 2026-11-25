@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&pause=1000&color=F4F6FB&center=true&vCenter=true&width=500&height=50&lines=Andrey+Ara%C3%BAjo" alt="Andrey Araújo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&color=F4F6FB&center=true&vCenter=true&width=500&height=50&lines=Andrey+Ara%C3%BAjo&repeat=false" alt="Andrey Araújo" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=400&size=16&pause=1000&color=7F8796&center=true&vCenter=true&width=600&height=30&lines=Fullstack+Developer+%C2%B7+Itapipoca%2C+CE+-+Brasil" alt="tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=400&size=16&color=7F8796&center=true&vCenter=true&width=600&height=30&lines=Fullstack+Developer+%C2%B7+Itapipoca%2C+CE+-+Brasil&repeat=false" alt="tagline" />
 </p>
 
 <p align="center">
