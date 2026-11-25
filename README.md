@@ -3,27 +3,20 @@
 </p>
 
 <p align="center">
-  <a href="https://andreyaraujo.dev" target="_blank"><img src="https://img.shields.io/badge/🌐-andreyaraujo.dev-11141b?style=flat-square" ></a>
-  <a href="https://dev.to/andreyaraujo" target="_blank"><img src="https://img.shields.io/badge/✍️-Dev.to-11141b?style=flat-square" ></a>
-  <a href="https://twitter.com/andreyaraujodev" target="_blank"><img src="https://img.shields.io/badge/🐦-@andreyaraujodev-11141b?style=flat-square" ></a>
-  <a href="https://www.linkedin.com/in/jacksson-andrey" target="_blank"><img src="https://img.shields.io/badge/💼-jacksson--andrey-11141b?style=flat-square" ></a>
-  <a href="https://www.instagram.com/andreyaraujo.dev/" target="_blank"><img src="https://img.shields.io/badge/📸-@andreyaraujo.dev-11141b?style=flat-square" ></a>
-  <a href="https://www.twitch.tv/andreyaraujoo" target="_blank"><img src="https://img.shields.io/badge/🎮-andreyaraujoo-11141b?style=flat-square" ></a>
-  <a href="https://www.youtube.com/@andreyaraujo" target="_blank"><img src="https://img.shields.io/badge/▶️-@andreyaraujo-11141b?style=flat-square" ></a>
+  <a href="https://andreyaraujo.dev" target="_blank"><img src="https://img.shields.io/badge/andreyaraujo.dev-11141b?style=flat-square" ></a>
+  <a href="https://dev.to/andreyaraujo" target="_blank"><img src="https://img.shields.io/badge/Dev.to-11141b?style=flat-square&logo=devdotto&logoColor=70A0FF" ></a>
+  <a href="https://twitter.com/andreyaraujodev" target="_blank"><img src="https://img.shields.io/badge/@andreyaraujodev-11141b?style=flat-square&logo=x&logoColor=70A0FF" ></a>
+  <a href="https://www.linkedin.com/in/jacksson-andrey" target="_blank"><img src="https://img.shields.io/badge/jacksson--andrey-11141b?style=flat-square&logo=linkedin&logoColor=70A0FF" ></a>
+  <a href="https://www.instagram.com/andreyaraujo.dev/" target="_blank"><img src="https://img.shields.io/badge/@andreyaraujo.dev-11141b?style=flat-square&logo=instagram&logoColor=9D7BFF" ></a>
+  <a href="https://www.twitch.tv/andreyaraujoo" target="_blank"><img src="https://img.shields.io/badge/andreyaraujoo-11141b?style=flat-square&logo=twitch&logoColor=9D7BFF" ></a>
+  <a href="https://www.youtube.com/@andreyaraujo" target="_blank"><img src="https://img.shields.io/badge/@andreyaraujo-11141b?style=flat-square&logo=youtube&logoColor=79E6B5" ></a>
 </p>
 
-### 🖥️ whoami
+### 💻 whoami
 
-```text
-$ whoami
-fullstack_developer
-
-$ cat sobre.txt
-🎓 Graduado em Análise e Desenvolvimento de Sistemas
-🏠 Brasileiro, baseado em Itapipoca, CE
-🌍 Todos os projetos publicados em andreyaraujo.dev
-📝 Escrevo em andreyaraujo.dev e no Dev.to
-```
+<p align="center">
+  <img src="assets/terminal.svg" alt="terminal: whoami" width="100%" />
+</p>
 
 <table>
 <tr>
@@ -47,7 +40,19 @@ $ cat sobre.txt
 ### 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,python,php,dotnet,css,figma,git&theme=dark" alt="Tech stack icons" />
+  <img src="https://img.shields.io/badge/JavaScript-11141b?style=flat-square&logo=javascript&logoColor=F7DF1E" >
+  <img src="https://img.shields.io/badge/TypeScript-11141b?style=flat-square&logo=typescript&logoColor=3178C6" >
+  <img src="https://img.shields.io/badge/React-11141b?style=flat-square&logo=react&logoColor=61DAFB" >
+  <img src="https://img.shields.io/badge/Next.js-11141b?style=flat-square&logo=nextdotjs&logoColor=F4F6FB" >
+  <img src="https://img.shields.io/badge/NestJS-11141b?style=flat-square&logo=nestjs&logoColor=E0234E" >
+  <img src="https://img.shields.io/badge/Node.js-11141b?style=flat-square&logo=nodedotjs&logoColor=79E6B5" >
+  <br/>
+  <img src="https://img.shields.io/badge/Python-11141b?style=flat-square&logo=python&logoColor=70A0FF" >
+  <img src="https://img.shields.io/badge/PHP-11141b?style=flat-square&logo=php&logoColor=9D7BFF" >
+  <img src="https://img.shields.io/badge/.NET-11141b?style=flat-square&logo=dotnet&logoColor=70A0FF" >
+  <img src="https://img.shields.io/badge/CSS3-11141b?style=flat-square&logo=css3&logoColor=70A0FF" >
+  <img src="https://img.shields.io/badge/Figma-11141b?style=flat-square&logo=figma&logoColor=9D7BFF" >
+  <img src="https://img.shields.io/badge/Git-11141b?style=flat-square&logo=git&logoColor=F4F6FB" >
 </p>
 
 ### 🐍 Contribuições
