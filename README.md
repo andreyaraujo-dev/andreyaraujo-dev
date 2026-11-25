@@ -5,14 +5,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&color=F4F6FB&center=true&vCenter=true&width=500&height=50&lines=Andrey+Ara%C3%BAjo&repeat=false" alt="Andrey Araújo" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=400&size=16&color=7F8796&center=true&vCenter=true&width=600&height=30&lines=Fullstack+Developer+%C2%B7+Itapipoca%2C+CE+-+Brasil&repeat=false" alt="tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=400&size=16&color=7F8796&center=true&vCenter=true&width=600&height=30&lines=Fullstack+Developer&repeat=false" alt="tagline" />
 </p>
 
 <p align="center">
   <a href="https://andreyaraujo.dev" target="_blank"><img src="https://img.shields.io/badge/andreyaraujo.dev-11141b?style=flat-square" ></a>
   <a href="https://dev.to/andreyaraujo" target="_blank"><img src="https://img.shields.io/badge/Dev.to-11141b?style=flat-square&logo=devdotto&logoColor=70A0FF" ></a>
-  <a href="https://twitter.com/andreyaraujodev" target="_blank"><img src="https://img.shields.io/badge/@andreyaraujodev-11141b?style=flat-square&logo=x&logoColor=70A0FF" ></a>
-  <a href="https://www.linkedin.com/in/jacksson-andrey" target="_blank"><img src="https://img.shields.io/badge/jacksson--andrey-11141b?style=flat-square&logo=linkedin&logoColor=70A0FF" ></a>
+  <a href="https://www.linkedin.com/in/jacksson-andrey" target="_blank"><img src="assets/badge-linkedin.svg" alt="LinkedIn: jacksson-andrey" ></a>
   <a href="https://www.instagram.com/andreyaraujo.dev/" target="_blank"><img src="https://img.shields.io/badge/@andreyaraujo.dev-11141b?style=flat-square&logo=instagram&logoColor=9D7BFF" ></a>
   <a href="https://www.twitch.tv/andreyaraujoo" target="_blank"><img src="https://img.shields.io/badge/andreyaraujoo-11141b?style=flat-square&logo=twitch&logoColor=9D7BFF" ></a>
   <a href="https://www.youtube.com/@andreyaraujo" target="_blank"><img src="https://img.shields.io/badge/@andreyaraujo-11141b?style=flat-square&logo=youtube&logoColor=79E6B5" ></a>
@@ -56,9 +55,9 @@
   <img src="https://img.shields.io/badge/Python-11141b?style=flat-square&logo=python&logoColor=70A0FF" >
   <img src="https://img.shields.io/badge/PHP-11141b?style=flat-square&logo=php&logoColor=9D7BFF" >
   <img src="https://img.shields.io/badge/.NET-11141b?style=flat-square&logo=dotnet&logoColor=70A0FF" >
-  <img src="https://img.shields.io/badge/CSS3-11141b?style=flat-square&logo=css3&logoColor=70A0FF" >
   <img src="https://img.shields.io/badge/Figma-11141b?style=flat-square&logo=figma&logoColor=9D7BFF" >
-  <img src="https://img.shields.io/badge/Git-11141b?style=flat-square&logo=git&logoColor=F4F6FB" >
+  <img src="assets/badge-aws.svg" alt="AWS" >
+  <img src="https://img.shields.io/badge/MongoDB-11141b?style=flat-square&logo=mongodb&logoColor=79E6B5" >
 </p>
 
 ### 🐍 Contribuições
